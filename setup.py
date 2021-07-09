@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     long_description=README,
     long_description_content_type="text/markdown",
-    url='https://github.com/iamliquidx/mirrorx',
+    url='https://github.com/sravantony2/mainrepo',
     license='GPL3.0',
     author='',
     author_email='',
